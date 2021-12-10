@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="DiscountTest(failed)">
+    <classes>
+      <class name="Test.SeleniumAutomation.DiscountTest">
+        <methods>
+          <include name="f"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- Test.SeleniumAutomation.DiscountTest -->
+    </classes>
+  </test> <!-- DiscountTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
